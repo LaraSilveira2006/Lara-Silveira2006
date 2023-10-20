@@ -16,6 +16,7 @@
 </div>
 
 ##MINHAS POSTAGENS:
+<div>
 ![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lara-Silveira2006&show_icons=true&theme=radical)
-
+</div>
 
